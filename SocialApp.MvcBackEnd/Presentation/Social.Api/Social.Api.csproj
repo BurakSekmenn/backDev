@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\uploads\12abcff2-827e-4160-86c9-07cc7c4db383.jpg" />
+    <Content Remove="wwwroot\uploads\223f67eb-7b36-4a01-b4a3-96788548769d.jpg" />
+    <Content Remove="wwwroot\uploads\57a3d057-aa89-4c2c-961f-f1c527a5f155.jpg" />
+    <Content Remove="wwwroot\uploads\7901958d-88ff-4de4-832c-fd65f49d143b.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.20" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Social.Application\Social.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Social.Persistence\Social.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="uploads\" />
+    <Folder Include="wwwroot\posts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\uploads\12abcff2-827e-4160-86c9-07cc7c4db383.jpg" />
+    <None Include="wwwroot\uploads\223f67eb-7b36-4a01-b4a3-96788548769d.jpg" />
+    <None Include="wwwroot\uploads\57a3d057-aa89-4c2c-961f-f1c527a5f155.jpg" />
+    <None Include="wwwroot\uploads\7901958d-88ff-4de4-832c-fd65f49d143b.jpg" />
+  </ItemGroup>
+
+</Project>

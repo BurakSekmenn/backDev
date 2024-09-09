@@ -1,0 +1,13 @@
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\bin\Debug\net7.0\Social.Domain.deps.json
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\bin\Debug\net7.0\Social.Domain.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\bin\Debug\net7.0\Social.Domain.pdb
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\refint\Social.Domain.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.pdb
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\ref\Social.Domain.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Domain\obj\Debug\net7.0\Social.Domain.csproj.AssemblyReference.cache

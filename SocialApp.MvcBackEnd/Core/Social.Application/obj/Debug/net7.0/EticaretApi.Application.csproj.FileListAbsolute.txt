@@ -1,0 +1,16 @@
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\bin\Debug\net7.0\Social.Application.deps.json
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\bin\Debug\net7.0\Social.Application.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\bin\Debug\net7.0\Social.Application.pdb
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\bin\Debug\net7.0\Social.Domain.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\bin\Debug\net7.0\Social.Domain.pdb
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\refint\Social.Application.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.pdb
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\ref\Social.Application.dll
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Eticaret.DD223E1B.Up2Date
+C:\Users\burak\OneDrive\Masaüstü\OnionArhitecture\OnionArchitecture\Core\Social.Application\obj\Debug\net7.0\Social.Application.sourcelink.json
