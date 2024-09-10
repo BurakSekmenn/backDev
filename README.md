@@ -60,4 +60,4 @@ Projenin çalıştırılması için gerekli adımlar şu şekildedir:
 
 ## About
 
-Bu proje, bir sosyal medya uygulamasının backend kısmını oluşturmak için geliştirilmiştir. **SocialApp.MvcBackEnd**, modern yazılım mimarileri olan **Onion Architecture**, **CQRS** ve **MediatR** kullanılarak tasarlanmıştır. Proje, kullanıcıların içerik oluşturmasına, paylaşmasına ve diğer kullanıcılarla etkileşim kurmasına olanak tanıyan bir sosyal platformun backend'ini sağlar. Bu backend, **React Native** ile geliştirilen mobil uygulamayla entegre çalışarak uçtan uca bir çözüm sunar.
+Bu proje, bir sosyal medya uygulamasının backend kısmını oluşturmak için geliştirilmiştir. Herhangi bir ticari amaç İçin kullanılmaktadır.
