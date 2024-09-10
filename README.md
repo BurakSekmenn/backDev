@@ -50,10 +50,10 @@ Projenin çalıştırılması için gerekli adımlar şu şekildedir:
 ## Ekran Görüntüleri
 
 **React Native** ile geliştirilen frontend uygulamasına ait ekran görüntüleri;
-![Ana Sayfa](screenshots/1.jpg)
-![Kayıt Olma](screenshots/2.jpg)
-![Login](screenshots/3.jpg)
-![Ana Sayfa](screenshots/6.jpg)
+![Ana Sayfa](screenshots/1.jpg=250x250)
+![Kayıt Olma](screenshots/2.jpg=250x250)
+![Login](screenshots/3.jpg=250x250)
+![Ana Sayfa](screenshots/6.jpg=250x250)
 
 
 ---
