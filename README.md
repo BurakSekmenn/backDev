@@ -58,6 +58,5 @@ Projenin çalıştırılması için gerekli adımlar şu şekildedir:
 
 ---
 
-## About
 
 Bu proje, bir sosyal medya uygulamasının backend kısmını oluşturmak için geliştirilmiştir. Herhangi bir ticari amaç İçin kullanılmaktadır.
