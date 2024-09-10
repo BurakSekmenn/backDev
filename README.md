@@ -49,7 +49,12 @@ Projenin çalıştırılması için gerekli adımlar şu şekildedir:
 
 ## Ekran Görüntüleri
 
-**React Native** ile geliştirilen frontend uygulamasına ait ekran görüntülerine **`screenshots/`** klasöründen ulaşabilirsiniz.
+**React Native** ile geliştirilen frontend uygulamasına ait ekran görüntüleri;
+![Ana Sayfa](screenshots/1.jpg)
+![Kayıt Olma](screenshots/2.jpg)
+![Login](screenshots/3.jpg)
+![Ana Sayfa](screenshots/6.jpg)
+
 
 ---
 
